@@ -433,10 +433,10 @@ body {
   .container > div:nth-child(5) > div:nth-child(2) > div:nth-child(2) input {
     color: var(--gris);
     border: none;
+    background-color: #F5F5F5;
     border-bottom: 1px solid var(--gris);
     width: 90%;
     padding: 10px 0;
-    border-radius: 10px;
     margin-left: 15px;
   }
   .btn {

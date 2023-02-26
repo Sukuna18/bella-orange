@@ -251,6 +251,7 @@ body {
 .container > div:nth-child(6) > div:nth-child(1) > div > div:nth-child(4),
 .container > div:nth-child(6) > div:nth-child(1) > div > div:nth-child(5) {
   font-size: 1.5rem;
+  color: var(--gris);
 }
 .container > div:nth-child(7) {
   display: flex;
